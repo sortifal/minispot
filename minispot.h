@@ -11,6 +11,7 @@ class Spot{
     public:
         //Constructor
         Spot(int x = 0, int y = 0, int z = 0);
+        //test
         //Position
         int pos_x;
         int pos_y;
