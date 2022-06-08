@@ -6,12 +6,12 @@
 #define PWM_SERVO_ADDR 0x40
 
 class Spot{
+        //Bon ptet que ca va marcher
     private:
         //Nothing here
     public:
         //Constructor
         Spot(int x = 0, int y = 0, int z = 0);
-        //test
         //Position
         int pos_x;
         int pos_y;
