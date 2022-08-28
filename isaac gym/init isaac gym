@@ -1,7 +1,0 @@
-cd Documents/git/minispot/isaac\ gym/isaacgym/
-conda activate rlgpu
-export LD_LIBRARY_PATH=/home/machin/miniconda3/envs/rlgpu/lib:$LD_LIBRARY_PATH
-cd python/examples
-python joint_monkey.py
-
-https://github.com/chengxuxin/legged_gym_isaac
